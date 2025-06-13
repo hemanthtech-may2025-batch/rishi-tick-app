@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "Welcome to Git"
-pwd
+ls
 date
 whoami
+
